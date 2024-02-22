@@ -1,0 +1,16 @@
+<template>
+  <main>
+    <div>
+      <header>
+      <h1>Notes</h1>
+        <button>+</button>
+      </header>
+      <div>
+        <div>
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </main>
+</template>
