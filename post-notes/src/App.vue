@@ -2,7 +2,7 @@
   <main>
     <div>
       <header>
-      <h1>Notes</h1>
+      <h1>Notess</h1>
         <button>+</button>
       </header>
       <div>
